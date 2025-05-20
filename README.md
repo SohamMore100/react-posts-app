@@ -27,13 +27,12 @@ This is a simple ReactJS application that displays a list of posts using the **G
 
 ### 1. Clone the Repository or Extract ZIP
 
-git clone <[https://github.com/SohamMore100/react-posts-app.git](https://github.com/SohamMore100/react-posts-app.git)>
-cd react-posts-app
+- git clone [https://github.com/SohamMore100/react-posts-app.git](https://github.com/SohamMore100/react-posts-app.git)
+
+- cd react-posts-app
 
 ### 2. Install Dependencies:
-
-npm install
+- npm install
 
 ### 3. Run the App:
-
-npm run dev
+- npm run dev
