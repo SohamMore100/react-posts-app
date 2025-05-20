@@ -8,7 +8,6 @@ This is a simple ReactJS application that displays a list of posts using the **G
 - Submit a new post using a form
 - Instantly show the new post at the top of the list
 
-
 ## 🛠️ Technologies Used
 
 - ReactJS
@@ -19,6 +18,7 @@ This is a simple ReactJS application that displays a list of posts using the **G
 ---
 
 ## 📂Note:
+
 - This app uses a fake online REST API (JSONPlaceholder), so new posts are not saved permanently.
 - New posts are shown immediately in the list using React state.
 - Refreshing the page will reload only the original 20 posts from the API.(For Faster loading)
@@ -27,12 +27,13 @@ This is a simple ReactJS application that displays a list of posts using the **G
 
 ### 1. Clone the Repository or Extract ZIP
 
-git clone <your-repo-url>
+git clone <[https://github.com/SohamMore100/react-posts-app.git](https://github.com/SohamMore100/react-posts-app.git)>
 cd react-posts-app
 
-2. Install Dependencies:
+### 2. Install Dependencies:
+
 npm install
 
-3. Run the App:
-npm run dev
+### 3. Run the App:
 
+npm run dev
